@@ -1,0 +1,37 @@
+
+#body {
+    height: 100vh;
+    background-color: grey;
+    
+}
+#divP{
+    text-align: center;
+    width: 40vw;
+    padding: 10px 0px 30px 0px;
+    background-color: rgb(179, 179, 179);
+    margin-left: 30vw;
+    margin-right: 30vw;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    border: 1px solid #000000;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+
+}
+#divR{
+    text-align: center;
+    width: 20vw;
+    padding: 10px 0px 30px 0px;
+    background-color: rgb(179, 179, 179);
+    margin-left: 40vw;
+    margin-right: 40vw;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    border: 1px solid #000000;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    flex-direction: column;
+}
